@@ -8,7 +8,7 @@
 		}
 	},
 	"condition": {
-		"regexFilter": "^https://www\\.youtube\\.com/watch\\?v=(.+)",
+		"regexFilter": "^https://www\\.youtube\\.com/watch\\?v=([^#&?]+)(&.*)*",
 		"resourceTypes": [ "main_frame" ]
 	}
 }]

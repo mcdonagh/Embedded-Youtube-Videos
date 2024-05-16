@@ -9,3 +9,4 @@ Made this because I didn't want to manually change the url for every video I wat
 
 ## License
 Code released under [the Unlicense](https://unlicense.org/).
+
